@@ -7,7 +7,7 @@ I'm now working on two interesting projects:
 * Visualization and localization of *blood vessels images*
 * Classification of *kidney stone images*
 
-If you want to discuss things of images, or make a collaboration, send me an [email](mailto:francisco.lopez@inaoe.com?subject=[GitHub]%Hello,%20Francisco), or follow me on [twitter](https://twitter.com/Friscolt).
+If you want to discuss things of images, or make a collaboration, send me an [email](mailto:francisco.lopez@inaoe.com?subject=[GitHub]%20Hello,%20Francisco), or follow me on [twitter](https://twitter.com/Friscolt).
 
 Cheers,
 Francisco 🇲🇽
