@@ -1,5 +1,4 @@
-# `import Francisco as friscolt`
-
+# Hello, World!
 
 My main interest is medical image processing and analysis. This involves multidisciplinary research from computing (mainly), and a bit of biophotonics. Most of my work has been done in Matlab, and I’m doing useful things with Python 🐍.
 
