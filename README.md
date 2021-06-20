@@ -1,6 +1,6 @@
 # Hello, World!
 
-My main interest are medical image, processing and analysis, and classification with machine and deep learning. This involves multidisciplinary research from computing (mainly), and a bit of biophotonics. Most of my work has been done in Matlab, and I’m doing useful things with Python 🐍.
+My main interest are medical image, processing and analysis, and classification with machine and deep learning. This involves multidisciplinary research from computing (mainly), and a bit of biophotonics and medicine. Most of my work has been done in Matlab, and I’m doing useful things with Python 🐍.
 
 I'm now working on three interesting projects:
 
