@@ -1,6 +1,6 @@
 # Hello, World!
 
-My interests are in **computer vision** & **biomedical image processing and analysis**, and **machine learning**. This involves multidisciplinary research from computing (mainly), (a bit of) biophotonics, and biomedical sciences. 
+My interests are in **Medical Image Analysis**,  **Computer Vision**, and **Machine Learning**. This involves multidisciplinary research from computing (mainly), (a bit of) biophotonics, and biomedical sciences. 
 
 I'm now working on some interesting projects:
 
