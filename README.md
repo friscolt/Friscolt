@@ -10,7 +10,7 @@ I'm now working on some interesting projects:
 *  [**Visualization and analysis of colony growth in speckle images**](https://friscolt.github.io/colonygrowth)
 
 
-If you want to know more about these projects, you can click on the points above. If you want to discuss things of images, or make a collaboration, send me an [email](mailto:francisco.lopez@inaoe.com?subject=[GitHub]%20Hello,%20Francisco), or follow me on [twitter](https://twitter.com/Friscolt).
+If you want to know more about these projects, you can click on the points above. If you want to discuss things of images, or make a collaboration, send me an [email](mailto:francisco.lopez@ieee.org?subject=[GitHub]%20Hello,%20Francisco), or follow me on [twitter](https://twitter.com/Friscolt).
 
 Cheers,
 Francisco 🇲🇽
