@@ -4,8 +4,8 @@ My interests are in **medical image analysis**,  **computer vision**, and **mach
 
 I'm now working on some interesting projects:
 
+*  [**Classification of kidney stones in endoscopic images**](https://friscolt.github.io/kidneystones) 📌
 *  [**Visualization and localization of blood vessels in speckle images**](https://friscolt.github.io/bloodvessels)
-*  [**Classification of kidney stones in endoscopic images**](https://friscolt.github.io/kidneystones)
 *  [**Breast classification on mammography images**](https://friscolt.github.io/mammography)
 *  [**Visualization and analysis of colony growth in speckle images**](https://friscolt.github.io/colonygrowth)
 
